@@ -1,8 +1,6 @@
 import numpy as np
 from world import World
 
-ghp_6lljd9qvsuPUCplQRylguUZkxH3s3X2dLuGS
-git remote add origin https://Zhenghong-Liu:ghp_6lljd9qvsuPUCplQRylguUZkxH3s3X2dLuGS@github.com/Zhenghong-Liu/Elevator-Simulation.git
 class People:
     id = 1
 
